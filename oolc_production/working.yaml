@@ -2,5 +2,7 @@ project_id: oomlout_organizing_kitchen_jar_kilner_cubby_hole
 project_name: Oomlout Organizing Kitchen Jar Kilner Cubby Hole
 project_repo: https://github.com/oomlout/oomlout_organizing_kitchen_jar_kilner_cubby_hole
 production_format:
-  oolc_1:
+  oolc_1_3000_ml_8_count_kitchen_pantry_cupboard:
     file_location: source_files/oolc_1.cdr
+  oolc_2_1500_ml_14_count_kitchen_pantry_cupboard:
+    file_location: source_files/oolc_2.cdr
