@@ -1,0 +1,591 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW X6 -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="1800mm" height="1800mm" version="1.1" shape-rendering="geometricPrecision" text-rendering="geometricPrecision" image-rendering="optimizeQuality" fill-rule="evenodd" clip-rule="evenodd"
+viewBox="0 0 180000 180000"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <font id="FontID0" horiz-adv-x="689" font-variant="normal" fill-rule="nonzero" font-style="normal" font-weight="400">
+	<font-face 
+		font-family="Lucida Sans Unicode">
+	</font-face>
+   <missing-glyph><path d="M0 0z"/></missing-glyph>
+   <glyph unicode="w" horiz-adv-x="770"><path d="M157.997 0l-151.991 529.994 93.6681 0 116.487 -411.487 125.664 411.487 96.0067 0 110.499 -410.832 133.672 410.832 81.9928 0 -173.003 -529.994 -95.9889 0 -113.67 413.33 -127.33 -413.33 -96.0067 0z"/></glyph>
+   <glyph unicode="3" horiz-adv-x="632"><path d="M101.998 5.00032l0 89.9982c68.6665,-27.3336 122.502,-41.0004 162.002,-41.0004 46.4996,0 84.0001,13.3342 112.834,40.1689 28.8341,26.8347 43.166,61.8331 43.166,104.833 0,101.998 -71.0023,152.999 -212.999,152.999l-37.9994 0 0 64.5015 33.6643 0.498898c133.501,0 200.334,47.0023 200.334,141.166 0,73.8332 -44.3339,110.835 -132.832,110.835 -47.5012,0 -100.169,-13.6668 -158.17,-41.0004l0 84.0001c56.8328,19.3323 111.666,29.0004 164.334,29.0004 71.6675,0 126.834,-14.332 165.166,-42.9997 38.3358,-28.5015 57.5018,-70.0007 57.5018,-124.335 0,-84.8316 -50.1657,-145.331 -150.667,-181.331 116.5,-27.1673 174.667,-90.9998 174.667,-191.834 0,-68.0013 -22.4996,-121.501 -67.3324,-160.335 -44.8328,-38.8309 -106.5,-58.1632 -184.834,-58.1632 -44.6665,0 -100.834,7.66489 -168.835,22.9985z"/></glyph>
+   <glyph unicode="f" horiz-adv-x="367"><path d="M114 0l0 457.999 -75.1672 0 0 72.0018 75.1672 0 0 63.4998c0,126.333 57.6661,189.5 173,189.5 32.3338,0 68.999,-5.33291 109.999,-16.0006l0 -77.0003c-43.4986,14.0013 -78.3325,21.0009 -104.5,21.0009 -31.8331,0 -53.4992,-7.50047 -65.0003,-22.6677 -11.6655,-15.1653 -17.4992,-43.3323 -17.4992,-84.4988l0 -73.833 133.166 0 0 -72.0018 -133.166 0 0 -457.999 -95.9999 0z"/></glyph>
+   <glyph unicode="0" horiz-adv-x="632"><path d="M315.999 -17.9981c-75.8325,0 -137,34.8322 -183.334,104.33 -46.4996,69.5018 -69.6643,161.167 -69.6643,275.169 0,113.998 23.1648,205.667 69.6643,275.165 46.3333,69.5018 107.501,104.334 183.334,104.334 76.1689,0 137.333,-34.6659 183.666,-104.001 46.167,-69.3317 69.3355,-161.167 69.3355,-275.498 0,-114.002 -23.1685,-205.667 -69.3355,-275.169 -46.3333,-69.498 -107.497,-104.33 -183.666,-104.33zm-0.166299 71.9963c100.169,0 150.168,102.501 150.168,307.503 0,204.998 -49.9994,307.499 -150.168,307.499 -99.8326,0 -149.832,-102.501 -149.832,-307.499 0,-205.002 49.9994,-307.503 149.832,-307.503z"/></glyph>
+   <glyph unicode="c" horiz-adv-x="512"><path d="M463.999 16.0006c-62.1656,-18.6671 -115.833,-28.0006 -160.998,-28.0006 -71.6674,0 -131,26.5001 -178.167,79.3341 -47.1666,52.9984 -70.834,119.832 -70.834,200.332 0,86.0012 23.3329,153.167 70.0006,201.167 46.6658,48.1663 111.832,72.1663 195.5,72.1663 41.1666,0 87.4998,-5.66551 138.499,-16.9984l0 -81.0009c-54.1663,16.0006 -98.3319,24 -132.333,24 -49.3341,0 -88.834,-18.5008 -118.333,-55.3341 -29.4992,-36.8334 -44.3338,-85.9993 -44.3338,-147.333 0,-59.4992 15.3335,-107.499 45.8343,-144.333 30.4989,-36.6671 70.3332,-54.9997 119.834,-54.9997 43.833,0 88.8321,11.3329 135.332,34.0006l0 -83.0003z"/></glyph>
+   <glyph unicode="t" horiz-adv-x="373"><path d="M333.001 0.166299c-29.6674,-8.16566 -55.5004,-12.1663 -77.3348,-12.1663 -48.9997,0 -87.1653,13.9994 -114.499,42 -27.4998,28.0006 -41.1666,66.8333 -41.1666,116.666l0 311.333 -66.3344 0 0 72.0018 66.3344 0 0 95.8318 95.9999 9.16724 0 -104.999 139 0 0 -72.0018 -139 0 0 -294c0,-69.3335 30.1663,-103.999 90.3325,-103.999 12.8334,0 28.3332,2.16756 46.6677,6.33259l0 -66.1663z"/></glyph>
+   <glyph unicode="n" horiz-adv-x="620"><path d="M95.9999 0l0 530.001 95.9999 0 0 -100.167c50.8327,74.1656 113.167,111.165 186.833,111.165 46.3332,0 83.1666,-14.5001 110.334,-43.6667 27.1672,-28.9984 40.834,-68.1656 40.834,-117.165l0 -380.167 -96.0018 0 0 348.833c0,39.3335 -5.83181,67.3341 -17.3329,83.9999 -11.6655,16.834 -30.8334,25.166 -57.6661,25.166 -59.0003,0 -114.667,-38.4982 -167,-115.499l0 -342.501 -95.9999 0z"/></glyph>
+   <glyph unicode="8" horiz-adv-x="632"><path d="M230 393.498c-39.6662,27.67 -67.3324,53.3368 -82.8322,77.1667 -15.4999,23.6674 -23.1685,52.3352 -23.1685,85.8332 0,54.6672 20.0013,99.1674 59.8338,133.334 39.9988,34.167 92.1677,51.1673 156.499,51.1673 59.3349,0 107.501,-14.4983 144.337,-43.4986 36.8315,-28.8341 55.3324,-66.5009 55.3324,-112.668 0,-70.0007 -44.8328,-133.833 -134.332,-191.335 108.832,-53.333 163.332,-122.166 163.332,-206.499 0,-60.1664 -22.8359,-109.334 -68.3339,-147.666 -45.5018,-38.1657 -104.001,-57.3317 -175.669,-57.3317 -71.4974,0 -129.166,17.9981 -173.163,53.9982 -43.835,35.8337 -65.8357,83.1648 -65.8357,141.668 0,86.6647 48.0001,158.498 144,215.83zm122 30.1682c67.3324,44.5002 101,93.8344 101,148.332 0,29.1667 -11.3348,52.5015 -33.8344,70.3333 -22.6659,17.8356 -52.1651,26.6684 -88.664,26.6684 -35.3348,0 -64.1689,-8.66647 -86.3359,-26.1657 -22.167,-17.4992 -33.1654,-40.0026 -33.1654,-67.835 0,-27.001 10.0006,-51.3336 30.0019,-72.9979 19.9975,-21.5018 56.9991,-47.6675 110.997,-78.3346zm-69.6643 -69.1654c-39.001,-30.0019 -65.5031,-56.1676 -79.5025,-78.5009 -13.8331,-22.3333 -20.8328,-49.9994 -20.8328,-83.3349 0,-41.333 13.3342,-74.831 40.1689,-100.331 26.8309,-25.5005 61.9994,-38.3358 105.831,-38.3358 42.1682,0 76.5015,10.8359 103,32.6703 26.6684,21.8306 40.0026,50.1657 40.0026,84.9979 0,27.9988 -8.16757,51.8325 -24.669,71.1686 -16.4977,19.3323 -48.3327,42.9997 -95.4974,70.9985l-68.5002 40.6678z"/></glyph>
+   <glyph unicode="k" horiz-adv-x="584"><path d="M95.9999 0l0 771 95.9999 0 0 -498.168 225.001 257.168 103.667 0 -215 -247.334 259.999 -282.667 -123.666 0 -250 271.833 0 -271.833 -95.9999 0z"/></glyph>
+   <glyph unicode="5" horiz-adv-x="632"><path d="M122 -3.00095l0 85.9995c47.8338,-19.3323 93.1655,-29.0004 136.502,-29.0004 47.3311,0 84.6653,14.0032 111.833,42.0019 27.1673,27.9988 40.6678,66.5009 40.6678,115.499 0,52.6678 -19.1698,93.003 -57.5018,120.835 -38.332,27.8325 -93.8344,41.6656 -166.333,41.6656 -16.834,0 -34.6659,-1.16788 -53.1667,-3.49985l0 352.502 365.999 0 0 -84.0001 -281.998 0 0 -191.002c92.9992,0 165.502,-21.3317 217.667,-63.9988 52.1651,-42.5008 78.3346,-101.499 78.3346,-176.999 0,-70.3333 -23.6674,-125.333 -71.0023,-165.169 -47.3311,-39.8325 -112.664,-59.83 -195.999,-59.83 -37.1679,0 -78.8335,4.99654 -125,14.9972z"/></glyph>
+   <glyph unicode="y" horiz-adv-x="522"><path d="M127.334 -193l85.9993 192.332 -205.334 530.668 103.002 0 152.666 -401.335 162.833 401.335 90.4988 0 -289.667 -723 -99.9987 0z"/></glyph>
+   <glyph unicode="h" horiz-adv-x="620"><path d="M95.9999 0l0 771 95.9999 0 0 -341.166c50.8327,74.1656 113.167,111.165 186.833,111.165 46.3332,0 83.1666,-14.5001 110.334,-43.6667 27.1672,-28.9984 40.834,-68.1656 40.834,-117.165l0 -380.167 -96.0018 0 0 348.833c0,39.3335 -5.83181,67.3341 -17.3329,83.9999 -11.6655,16.834 -30.8334,25.166 -57.6661,25.166 -59.0003,0 -114.667,-38.4982 -167,-115.499l0 -342.501 -95.9999 0z"/></glyph>
+   <glyph unicode="2" horiz-adv-x="632"><path d="M82.9985 0l0 84.0001c28.0026,65.4993 84.5028,137 169.667,214.167l54.9998 49.3342c70.836,64.3314 106.333,127.998 106.333,191.331 0,40.5015 -12.1663,72.1664 -36.3326,95.3349 -24.1663,23.1648 -57.6643,34.8322 -100.165,34.8322 -49.6668,0 -108.499,-18.9997 -176.5,-56.9991l0 84.0001c64.1651,29.9981 128.001,44.9991 191.668,44.9991 67.665,0 122,-18.1682 163,-54.6672 40.8303,-36.4989 61.3305,-84.8316 61.3305,-145.168 0,-43.3323 -10.3332,-81.8307 -30.9997,-115.332 -20.8328,-33.6643 -59.3311,-74.3321 -115.831,-122.332l-37.1679 -31.6687c-77.333,-65.4993 -122,-128.164 -134,-187.831l315.001 0 0 -84.0001 -431.003 0z"/></glyph>
+   <glyph unicode="e" horiz-adv-x="557"><path d="M485 17.0003c-64.4995,-19.3342 -119.667,-29.0003 -165.666,-29.0003 -78.5007,0 -142.333,25.9994 -191.501,77.8337 -49.166,51.8324 -73.833,119 -73.833,201.666 0,80.1675 21.6661,146.001 65.1666,197.501 43.5004,51.3335 99.1672,77.0003 167,77.0003 64.1669,0 113.834,-22.834 148.834,-68.5001 34.9984,-45.668 52.4995,-110.334 52.4995,-194.167l-0.500787 -29.3329 -335 0c14.0013,-126.667 75.8343,-190.001 185.335,-190.001 40.1669,0 89.3329,11.3329 147.666,34.0006l0 -77.0003zm-328 305l234 0c0,98.6664 -36.8334,147.999 -110.332,147.999 -74.0012,0 -115.168,-49.3323 -123.668,-147.999z"/></glyph>
+   <glyph unicode="/" horiz-adv-x="524"><path d="M108 -145.002l257.167 868.004 50.8347 0 -257.167 -868.004 -50.8347 0z"/></glyph>
+   <glyph unicode="b" horiz-adv-x="629"><path d="M95.9999 -6l0 777 95.9999 0 0 -341.166c39.3335,74.1656 98.5001,111.165 177.333,111.165 63.8343,0 114,-23.1666 150.667,-69.6661 36.6671,-46.4995 54.9997,-109.999 54.9997,-190.499 0,-87.668 -20.8327,-158.5 -62.3338,-212.167 -41.4992,-53.8337 -96.1662,-80.6664 -163.833,-80.6664 -62.8327,0 -115.166,24 -156.833,72.1663l-11.6674 -66.1663 -84.3325 0zm95.9999 132.333c49.5004,-44.1656 96.667,-66.3326 141.5,-66.3326 44.1675,0 78.3344,18.5008 102.334,55.3341 24.1663,36.8334 36.1663,88.6658 36.1663,155.665 0,124.001 -41.0003,186 -123.001,186 -53.6655,0 -105.999,-29.0003 -157,-87.1653l0 -243.502z"/></glyph>
+   <glyph unicode="s" horiz-adv-x="509"><path d="M77.0003 18.9997l0 88.0006c62.8327,-31.3342 117.333,-47.0003 163.833,-47.0003 27.6661,0 50.6664,7.50047 68.8327,22.4995 18.1682,14.8346 27.3335,33.4998 27.3335,56.0012 0,32.8327 -25.4986,60 -76.4995,81.4998l-56.1675 23.8337c-82.8321,34.3332 -124.333,83.9999 -124.333,148.499 0,46.1669 16.3332,82.4995 49.0015,109 32.6664,26.5001 77.4992,39.6661 134.332,39.6661 29.5011,0 66.1681,-3.99874 109.667,-12.1663l20.0012 -3.83244 0 -80.0012c-53.5011,16.0006 -96.1681,24 -128.001,24 -27.9987,0 -50.1656,-6.1663 -66.9996,-18.3326 -16.6658,-12.1663 -24.9997,-28.4995 -24.9997,-48.9997 0,-28.834 23.3329,-53.3329 70.1669,-73.1678l46.1669 -19.4986c52.3332,-22.0006 89.3329,-45.3335 110.999,-69.8343 21.8343,-24.4989 32.6664,-55.1659 32.6664,-91.833 0,-46.4995 -18.3326,-84.667 -55.1659,-114.501 -36.6671,-29.8318 -83.6673,-44.8327 -140.833,-44.8327 -44.0012,0 -97.1678,10.3332 -160.001,30.9997z"/></glyph>
+   <glyph unicode="p" horiz-adv-x="629"><path d="M95.9999 -193l0 723 95.9999 0 0 -100.167c39.3335,74.1656 98.5001,111.165 177.333,111.165 63.8343,0 114,-23.1666 150.667,-69.6661 36.6671,-46.4995 54.9997,-109.999 54.9997,-190.499 0,-87.668 -20.8327,-158.5 -62.3338,-212.167 -41.4992,-53.8337 -96.1662,-80.6664 -163.833,-80.6664 -62.8327,0 -115.166,24 -156.833,72.1663l0 -253.166 -95.9999 0zm95.9999 319.332c49.5004,-44.1656 96.667,-66.3326 141.5,-66.3326 44.1675,0 78.3344,18.5008 102.334,55.3341 24.1663,36.8334 36.1663,88.6658 36.1663,155.665 0,124.001 -41.0003,186 -123.001,186 -53.6655,0 -105.999,-29.0003 -157,-87.1653l0 -243.502z"/></glyph>
+   <glyph unicode="_" horiz-adv-x="499"><path d="M42 -72l0 72 415.999 0 0 -72 -415.999 0z"/></glyph>
+   <glyph unicode=":" horiz-adv-x="316"><path d="M110 0l0 96.0001 96.0001 0 0 -96.0001 -96.0001 0zm0 434l0 96.0001 96.0001 0 0 -96.0001 -96.0001 0z"/></glyph>
+   <glyph unicode="m" horiz-adv-x="933"><path d="M95.9999 0l0 530.001 95.9999 0 0 -100.167c46.834,74.1656 106.834,111.165 180.334,111.165 70.8321,0 118.998,-36.9997 144.665,-111.165 45.4998,74.8327 104.835,112.167 177.668,112.167 46.4995,0 82.6658,-13.6668 108.499,-41.1685 25.8331,-27.4998 38.8346,-66 38.8346,-115.499l0 -385.334 -95.9999 0 0 369.5c0,60.3345 -24,90.5007 -72,90.5007 -49.8349,0 -102.168,-35.1666 -157.001,-105.666l0 -354.334 -95.9999 0 0 369.834c0,60.8333 -24.3326,91.1659 -73.1659,91.1659 -48.5008,0 -100.499,-35.3329 -155.834,-106.167l0 -354.833 -95.9999 0z"/></glyph>
+   <glyph unicode="j" horiz-adv-x="304"><path d="M-75.0009 -180l0 77.0003c45.0009,-19.3342 79.3341,-29.0003 102.833,-29.0003 26.6683,0 47.5011,7.16598 62.1675,21.4998 9.83432,9.66614 15.8343,20.8327 18.3326,33.1672 2.50016,12.3326 3.66803,38.1656 3.66803,77.4992l0 529.835 95.9999 0 0 -529.668c0,-136.167 -57.4998,-204.332 -172.668,-204.332 -34.1669,0 -71.0003,7.99937 -110.334,24zm187.001 807l0 95.9999 95.9999 0 0 -95.9999 -95.9999 0z"/></glyph>
+   <glyph unicode="4" horiz-adv-x="632"><path d="M377.001 0l0 205.002 -326 0 0 72.9979 326 445.002 89.9982 0 0 -439 97.0017 0 0 -78.9998 -97.0017 0 0 -205.002 -89.9982 0zm-231.168 284.002l237.166 0 0 320.33 -237.166 -320.33z"/></glyph>
+   <glyph unicode="g" horiz-adv-x="623"><path d="M97.9993 -175.999l11.3348 82.9984c55.6667,-25.9994 110.833,-38.999 165.333,-38.999 108.166,0 162.332,57.3335 162.332,171.832l0 83.3348c-16.6658,-35.1666 -40.3332,-62.3338 -71.1666,-81.8343 -30.8334,-19.5005 -65.1666,-29.3329 -103,-29.3329 -64.1669,0 -115,23.0003 -152.5,69.0009 -37.5004,45.9987 -56.3338,108.333 -56.3338,187 0,80.5001 21.3335,146.166 64.0006,197 42.8334,50.6664 97.9993,75.9987 165.832,75.9987 59.3329,0 110.5,-24 153.167,-72.1663l0 61.1678 95.9999 0 0 -385.334c0,-82.834 -4.33323,-144.166 -12.9997,-184.001 -8.50015,-39.8324 -24.8334,-72.5007 -48.5008,-97.833 -42,-44.5001 -107.665,-66.8333 -196.832,-66.8333 -61.1678,0 -120.002,9.33354 -176.668,28.0006zm339.001 359.333l0 219.832c-42.3326,43.8349 -88.4995,65.8337 -138.333,65.8337 -44.3338,0 -79.0015,-17.6655 -104.001,-53.1666 -25.166,-35.3329 -37.6667,-84.4988 -37.6667,-147.165 0,-115.168 40.834,-172.668 122.666,-172.668 55.6667,0 108.168,29.1666 157.334,87.3335z"/></glyph>
+   <glyph unicode=" " horiz-adv-x="316"></glyph>
+   <glyph unicode="d" horiz-adv-x="629"><path d="M437.001 0l0 99.5c-39.1673,-74.3321 -98.1658,-111.5 -176.999,-111.5 -64.0026,0 -114.335,23.1685 -151,69.6681 -36.669,46.4996 -55.0035,110 -55.0035,190.5 0,87.9989 20.8366,158.831 62.3358,212.5 41.6656,53.4993 96.3327,80.3302 164.168,80.3302 62.8309,0 115.166,-24 156.499,-72.1664l0 302.166 96.0001 0 0 -770.998 -96.0001 0zm0 403.166c-49.8331,43.835 -97.0017,65.8319 -141.668,65.8319 -43.9975,0 -77.9982,-18.3307 -102.165,-55.1661 -24.1663,-36.6652 -36.1663,-88.664 -36.1663,-156 0,-123.833 40.9966,-185.832 123.164,-185.832 53.333,0 105.668,29.1667 156.835,87.3337l0 243.833z"/></glyph>
+   <glyph unicode="1" horiz-adv-x="632"><path d="M262.001 0l0 651.002 -115 0 0 60.0001 211 17.9981 0 -729 -96.0001 0z"/></glyph>
+   <glyph unicode="u" horiz-adv-x="620"><path d="M427.999 0l0 99.6661c-51.1653,-74.5001 -113.333,-111.666 -186.332,-111.666 -46.3332,0 -83.1666,14.5001 -110.5,43.6667 -27.4998,29.1666 -41.1666,68.3338 -41.1666,117.832l0 380.502 95.9999 0 0 -349.168c0,-39.8324 5.8337,-67.9993 17.3329,-84.667 11.6674,-16.8321 30.9997,-25.166 58.1669,-25.166 58.6677,0 114.334,38.5001 166.499,115.667l0 343.334 96.0018 0 0 -530.001 -96.0018 0z"/></glyph>
+   <glyph unicode="." horiz-adv-x="316"><path d="M97.9995 0l0 121.002 121.002 0 0 -121.002 -121.002 0z"/></glyph>
+   <glyph unicode="a" horiz-adv-x="552"><path d="M369.167 67.5004c-57.6661,-53.0003 -113.167,-79.5004 -166.499,-79.5004 -43.8349,0 -80.3338,13.6668 -109.168,41.1666 -29.0003,27.4998 -43.5004,62.1675 -43.5004,103.999 0,57.8343 24.3345,102.334 73.0015,133.334 48.6652,30.9997 118.499,46.4995 209.499,46.4995l22.4995 0 0 63.8343c0,61.5004 -31.9993,92.1656 -96.1662,92.1656 -49.6667,0 -103.999,-15.6661 -162.833,-47.0003l0 79.0015c64.6658,26.6664 125.667,39.9987 182.833,39.9987 58.834,0 102.334,-13.3323 130.167,-40.1669 28.0006,-26.8327 42,-68.1656 42,-123.999l0 -239.501c0,-54.8334 16.834,-82.3332 50.6664,-82.3332 4.16693,0 10.3332,0.667086 18.5008,2.00126l6.83338 -53.3348c-21.8324,-10.4995 -45.8324,-15.6661 -72.1663,-15.6661 -44.8346,0 -73.3341,26.5001 -85.6667,79.5004zm-14.1676 52.3332l0 136.167 -30.8334 0.999684c-53.3329,0 -96.3325,-9.83432 -129.165,-29.5011 -32.6683,-19.8331 -49.0015,-45.9987 -49.0015,-78.6651 0,-22.834 8.16755,-42.1682 24.3345,-58.0006 16.3332,-15.8324 36.1663,-23.8337 59.6655,-23.8337 40.0006,0 81.668,17.6674 125,52.834z"/></glyph>
+   <glyph unicode="r" horiz-adv-x="409"><path d="M95.9999 0l0 530.001 95.9999 0 0 -100.167c38.1675,74.1656 93.4998,111.165 166.167,111.165 9.83243,0 20.1675,-0.833385 30.8334,-2.50016l0 -89.8318c-16.6658,5.49921 -31.3342,8.33196 -43.9993,8.33196 -61.0015,0 -112.001,-36 -153.001,-108.166l0 -348.833 -95.9999 0z"/></glyph>
+   <glyph unicode="o" horiz-adv-x="614"><path d="M306.999 -12c-77.8337,0 -139.5,24.8334 -184.832,74.5001 -45.5017,49.6667 -68.1675,117.167 -68.1675,202.333 0,84.9996 22.6658,152.334 68.1675,201.834 45.3316,49.4986 106.998,74.3319 184.832,74.3319 77.8337,0 139.5,-24.8334 184.834,-74.3319 45.4998,-49.5004 68.1675,-116.835 68.1675,-201.834 0,-85.1659 -22.6677,-152.666 -68.1675,-202.333 -45.3335,-49.6667 -107,-74.5001 -184.834,-74.5001zm-0.166299 72c47.5011,0 84.5007,17.8337 110.833,53.6674 26.1675,35.6655 39.3335,86.1656 39.3335,151.166 0,64.834 -13.166,115.166 -39.3335,150.833 -26.332,35.5011 -63.3316,53.3329 -110.833,53.3329 -47.6674,0 -84.667,-17.8318 -110.666,-53.3329 -26.1675,-35.6674 -39.1672,-85.9993 -39.1672,-150.833 0,-65.0003 12.9997,-115.5 39.1672,-151.166 25.9994,-35.8337 62.999,-53.6674 110.666,-53.6674z"/></glyph>
+   <glyph unicode="9" horiz-adv-x="632"><path d="M113.998 3.99875l0 82.0007c61.168,-21.3317 113.167,-32.0013 156.17,-32.0013 59.83,0 106.666,25.5005 140.33,76.5015 33.6681,51.001 50.5021,122 50.5021,212.833 -48.8353,-60.1664 -104.334,-90.3346 -166.666,-90.3346 -60.8354,0 -112.502,22.337 -154.836,67.1698 -42.3308,44.8328 -63.4999,99.3337 -63.4999,163.831 0,73.9995 22.4996,135.334 67.6687,183.999 44.9991,48.669 101.666,73.0017 170,73.0017 78.5009,0 140.334,-31.4986 185.499,-94.4996 45.1654,-63.001 67.835,-149.167 67.835,-258.667 0,-69.6681 -10.8359,-135.167 -32.6665,-196.498 -21.8344,-61.5005 -51.001,-109.168 -87.8363,-143.335 -46.9985,-44.0013 -108.998,-65.9982 -185.666,-65.9982 -37.8331,0 -86.6647,7.33229 -146.835,21.9969zm58.0007 496.336c0,-54.9998 12.5027,-98.5022 37.5005,-130.5 25.0016,-31.835 58.6659,-47.8338 101.167,-47.8338 40.8341,0 75.6662,13.8331 104.334,41.4993 28.6678,27.6662 42.9997,61.168 42.9997,100.165 0,61.6668 -13.8331,111.334 -41.6656,148.834 -27.6662,37.6668 -64.0026,56.5002 -109.168,56.5002 -42.1682,0 -75.1673,-15.001 -99.1674,-44.9991 -24,-30.0019 -36,-71.1686 -36,-123.666z"/></glyph>
+   <glyph unicode="l" horiz-adv-x="288"><path d="M95.9999 0l0 771 95.9999 0 0 -771 -95.9999 0z"/></glyph>
+   <glyph unicode="z" horiz-adv-x="573"><path d="M60 0l0 72 328.834 385.999 -313.667 0 0 72.0018 431.833 0 0 -72.0018 -328.834 -385.999 334.834 0 0 -72 -453.001 0z"/></glyph>
+   <glyph unicode="i" horiz-adv-x="288"><path d="M95.9999 0l0 530.001 95.9999 0 0 -530.001 -95.9999 0zm0 627.001l0 95.9999 95.9999 0 0 -95.9999 -95.9999 0z"/></glyph>
+  </font>
+ </defs>
+ <g id="Layer_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <text x="53382" y="6330"  fill="black" font-weight="normal" font-size="5291.67" font-family="Lucida Sans Unicode">oomlout_organizing_kitchen</text>
+  <text x="35074" y="14461"  fill="black" font-weight="normal" font-size="5291.67" font-family="Lucida Sans Unicode">storage_jar_clip_top_jar_kilner_cubby_hole</text>
+  <path fill="none" stroke="aqua" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" d="M22550 159200l0 -48400c0,-276 224,-500 500,-500l43900 0c276,0 500,224 500,500l0 48400c0,276 -224,500 -500,500l-43900 0c-276,0 -500,-224 -500,-500z"/>
+  <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" cx="24750" cy="111000" r="300"/>
+  <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" cx="26250" cy="111000" r="300"/>
+  <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" cx="24000" cy="111000" r="150"/>
+  <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" cx="25500" cy="111000" r="150"/>
+  <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" cx="23250" cy="111000" r="300"/>
+  <text x="10451" y="22830"  fill="black" font-weight="normal" font-size="5291.67" font-family="Lucida Sans Unicode">reference</text>
+  <text x="11296" y="27330"  fill="black" font-weight="normal" font-size="2645.83" font-family="Lucida Sans Unicode">storage_jar_clip_top_kilner</text>
+  <text x="4325" y="31395"  fill="black" font-weight="normal" font-size="2645.83" font-family="Lucida Sans Unicode">1000_ml_capacity_110_mm_diameter</text>
+  <text x="6985" y="35461"  fill="black" font-weight="normal" font-size="2645.83" font-family="Lucida Sans Unicode">180_mm_depth_kilner_0025_491</text>
+  <text x="2779" y="39527"  fill="black" font-weight="normal" font-size="2645.83" font-family="Lucida Sans Unicode">http://oom.lt/nominee_fatigue_essence</text>
+  <polygon fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" points="28500,66000 32750,66000 34000,63500 34000,54500 32750,51500 32750,50000 28500,50000 24250,50000 24250,51500 23000,54500 23000,63500 24250,66000 "/>
+  <polygon fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" points="28500,50000 32750,50000 32750,48000 28500,48000 24250,48000 24250,50000 "/>
+  <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" cx="13500" cy="58500" r="4250"/>
+  <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" cx="13500" cy="58500" r="5500"/>
+  <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" cx="43500" cy="58500" r="5750"/>
+  <text x="42162" y="49982"  fill="black" font-weight="normal" font-size="1270" font-family="Lucida Sans Unicode">hole</text>
+  <text x="37960" y="51934"  fill="black" font-weight="normal" font-size="1270" font-family="Lucida Sans Unicode">115 mm diameter</text>
+  <text x="63796" y="25830"  fill="black" font-weight="normal" font-size="2645.83" font-family="Lucida Sans Unicode">storage_jar_clip_top_kilner</text>
+  <text x="56825" y="29895"  fill="black" font-weight="normal" font-size="2645.83" font-family="Lucida Sans Unicode">1500_ml_capacity_110_mm_diameter</text>
+  <text x="59485" y="33961"  fill="black" font-weight="normal" font-size="2645.83" font-family="Lucida Sans Unicode">230_mm_depth_kilner_0025_492</text>
+  <text x="60445" y="38027"  fill="black" font-weight="normal" font-size="2645.83" font-family="Lucida Sans Unicode">http://oom.lt/cute_card_anchor</text>
+  <polygon fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" points="81000,67500 85250,67500 86500,65000 86500,51000 85250,48000 85250,46500 81000,46500 76750,46500 76750,48000 75500,51000 75500,65000 76750,67500 "/>
+  <polygon fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" points="81000,46500 85250,46500 85250,44500 81000,44500 76750,44500 76750,46500 "/>
+  <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" cx="66000" cy="58500" r="4250"/>
+  <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" cx="66000" cy="58500" r="5500"/>
+  <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" cx="96000" cy="58500" r="5750"/>
+  <text x="94662" y="49982"  fill="black" font-weight="normal" font-size="1270" font-family="Lucida Sans Unicode">hole</text>
+  <text x="90460" y="51934"  fill="black" font-weight="normal" font-size="1270" font-family="Lucida Sans Unicode">115 mm diameter</text>
+  <text x="114796" y="24330"  fill="black" font-weight="normal" font-size="2645.83" font-family="Lucida Sans Unicode">storage_jar_clip_top_kilner</text>
+  <text x="107825" y="28395"  fill="black" font-weight="normal" font-size="2645.83" font-family="Lucida Sans Unicode">3000_ml_capacity_140_mm_diameter</text>
+  <text x="110485" y="32461"  fill="black" font-weight="normal" font-size="2645.83" font-family="Lucida Sans Unicode">280_mm_depth_kilner_0025_494</text>
+  <text x="110680" y="36527"  fill="black" font-weight="normal" font-size="2645.83" font-family="Lucida Sans Unicode">http://oom.lt/elite_random_base</text>
+  <polygon fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" points="132000,72000 137750,72000 139000,69500 139000,52000 137750,47500 137750,46000 132000,46000 126250,46000 126250,47500 125000,52000 125000,69500 126250,72000 "/>
+  <polygon fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" points="132000,46000 137750,46000 137750,44000 132000,44000 126250,44000 126250,46000 "/>
+  <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" cx="112500" cy="61500" r="5750"/>
+  <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" cx="112500" cy="61500" r="7000"/>
+  <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" cx="151500" cy="61500" r="7250"/>
+  <text x="150162" y="51482"  fill="black" font-weight="normal" font-size="1270" font-family="Lucida Sans Unicode">hole</text>
+  <text x="145960" y="53434"  fill="black" font-weight="normal" font-size="1270" font-family="Lucida Sans Unicode">145 mm diameter</text>
+  <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" cx="45000" cy="127125" r="7250"/>
+  <g id="_756826352">
+   <path fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" d="M102800 91700l0 -3400c0,-276 224,-500 500,-500l3400 0c276,0 500,224 500,500l0 3400c0,276 -224,500 -500,500l-3400 0c-276,0 -500,-224 -500,-500z"/>
+   <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" cx="105000" cy="90000" r="300"/>
+   <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" cx="105000" cy="88500" r="300"/>
+   <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" cx="105000" cy="91500" r="300"/>
+   <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" cx="106500" cy="90000" r="300"/>
+   <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" cx="106500" cy="88500" r="300"/>
+   <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" cx="106500" cy="91500" r="300"/>
+   <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" cx="104250" cy="91500" r="150"/>
+   <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" cx="105750" cy="91500" r="150"/>
+   <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" cx="104250" cy="90000" r="150"/>
+   <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" cx="105750" cy="90000" r="150"/>
+   <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" cx="104250" cy="88500" r="150"/>
+   <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" cx="105750" cy="88500" r="150"/>
+   <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" cx="105000" cy="90750" r="150"/>
+   <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" cx="106500" cy="90750" r="150"/>
+   <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" cx="105000" cy="89250" r="150"/>
+   <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" cx="106500" cy="89250" r="150"/>
+   <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" cx="103500" cy="90000" r="300"/>
+   <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" cx="103500" cy="88500" r="300"/>
+   <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" cx="103500" cy="91500" r="300"/>
+   <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" cx="103500" cy="90750" r="150"/>
+   <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" cx="103500" cy="89250" r="150"/>
+  </g>
+  <path fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" d="M22000 159750l0 -49500c0,-276 224,-500 500,-500l45000 0c276,0 500,224 500,500l0 49500c0,276 -224,500 -500,500l-45000 0c-276,0 -500,-224 -500,-500z"/>
+  <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" cx="30750" cy="135000" r="7250"/>
+  <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" cx="30750" cy="119250" r="7250"/>
+  <g id="_756822608">
+   <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" cx="99563" cy="141000" r="5750"/>
+   <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" cx="99563" cy="129000" r="5750"/>
+   <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" cx="99563" cy="117000" r="5750"/>
+   <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" cx="99563" cy="153000" r="5750"/>
+  </g>
+  <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" cx="59250" cy="135000" r="7250"/>
+  <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" cx="59250" cy="119250" r="7250"/>
+  <g id="_756819440">
+   <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" cx="88688" cy="147000" r="5750"/>
+   <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" cx="88688" cy="135000" r="5750"/>
+   <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" cx="88688" cy="123000" r="5750"/>
+  </g>
+  <g id="_756817584">
+   <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" cx="110438" cy="147000" r="5750"/>
+   <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" cx="110438" cy="135000" r="5750"/>
+   <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" cx="110438" cy="123000" r="5750"/>
+  </g>
+  <g id="_756817072">
+   <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" cx="121313" cy="141000" r="5750"/>
+   <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" cx="121313" cy="129000" r="5750"/>
+   <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" cx="121313" cy="117000" r="5750"/>
+   <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" cx="121313" cy="153000" r="5750"/>
+  </g>
+  <path fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" d="M82000 159750l0 -49500c0,-276 224,-500 500,-500l45000 0c276,0 500,224 500,500l0 49500c0,276 -224,500 -500,500l-45000 0c-276,0 -500,-224 -500,-500z"/>
+  <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" cx="27750" cy="111000" r="300"/>
+  <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" cx="29250" cy="111000" r="300"/>
+  <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" cx="27000" cy="111000" r="150"/>
+  <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" cx="28500" cy="111000" r="150"/>
+  <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" cx="30750" cy="111000" r="300"/>
+  <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" cx="32250" cy="111000" r="300"/>
+  <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" cx="30000" cy="111000" r="150"/>
+  <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" cx="31500" cy="111000" r="150"/>
+  <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" cx="33750" cy="111000" r="300"/>
+  <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" cx="35250" cy="111000" r="300"/>
+  <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" cx="33000" cy="111000" r="150"/>
+  <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" cx="34500" cy="111000" r="150"/>
+  <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" cx="36750" cy="111000" r="300"/>
+  <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" cx="38250" cy="111000" r="300"/>
+  <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" cx="36000" cy="111000" r="150"/>
+  <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" cx="37500" cy="111000" r="150"/>
+  <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" cx="39750" cy="111000" r="300"/>
+  <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" cx="41250" cy="111000" r="300"/>
+  <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" cx="39000" cy="111000" r="150"/>
+  <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" cx="40500" cy="111000" r="150"/>
+  <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" cx="42750" cy="111000" r="300"/>
+  <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" cx="44250" cy="111000" r="300"/>
+  <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" cx="42000" cy="111000" r="150"/>
+  <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" cx="43500" cy="111000" r="150"/>
+  <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" cx="45750" cy="111000" r="300"/>
+  <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" cx="47250" cy="111000" r="300"/>
+  <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" cx="45000" cy="111000" r="150"/>
+  <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" cx="46500" cy="111000" r="150"/>
+  <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" cx="48750" cy="111000" r="300"/>
+  <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" cx="50250" cy="111000" r="300"/>
+  <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" cx="48000" cy="111000" r="150"/>
+  <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" cx="49500" cy="111000" r="150"/>
+  <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" cx="51750" cy="111000" r="300"/>
+  <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" cx="53250" cy="111000" r="300"/>
+  <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" cx="51000" cy="111000" r="150"/>
+  <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" cx="52500" cy="111000" r="150"/>
+  <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" cx="54750" cy="111000" r="300"/>
+  <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" cx="56250" cy="111000" r="300"/>
+  <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" cx="54000" cy="111000" r="150"/>
+  <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" cx="55500" cy="111000" r="150"/>
+  <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" cx="57750" cy="111000" r="300"/>
+  <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" cx="59250" cy="111000" r="300"/>
+  <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" cx="57000" cy="111000" r="150"/>
+  <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" cx="58500" cy="111000" r="150"/>
+  <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" cx="60750" cy="111000" r="300"/>
+  <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" cx="62250" cy="111000" r="300"/>
+  <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" cx="60000" cy="111000" r="150"/>
+  <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" cx="61500" cy="111000" r="150"/>
+  <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" cx="63750" cy="111000" r="300"/>
+  <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" cx="65250" cy="111000" r="300"/>
+  <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" cx="63000" cy="111000" r="150"/>
+  <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" cx="64500" cy="111000" r="150"/>
+  <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" cx="66750" cy="111000" r="300"/>
+  <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" cx="66000" cy="111000" r="150"/>
+  <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" transform="matrix(4.55009E-014 1.71802 -1.71802 4.55009E-014 23250 112500)" r="175"/>
+  <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" transform="matrix(4.55009E-014 1.71802 -1.71802 4.55009E-014 23250 114000)" r="175"/>
+  <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" transform="matrix(2.27504E-014 0.859008 -0.859008 2.27504E-014 23250 111750)" r="175"/>
+  <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" transform="matrix(2.27504E-014 0.859008 -0.859008 2.27504E-014 23250 113250)" r="175"/>
+  <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" transform="matrix(2.27504E-014 0.859008 -0.859008 2.27504E-014 23250 114750)" r="175"/>
+  <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" transform="matrix(4.55009E-014 1.71802 -1.71802 4.55009E-014 23250 123000)" r="175"/>
+  <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" transform="matrix(2.27504E-014 0.859008 -0.859008 2.27504E-014 23250 122250)" r="175"/>
+  <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" transform="matrix(4.55009E-014 1.71802 -1.71802 4.55009E-014 23250 124500)" r="175"/>
+  <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" transform="matrix(4.55009E-014 1.71802 -1.71802 4.55009E-014 23250 126000)" r="175"/>
+  <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" transform="matrix(2.27504E-014 0.859008 -0.859008 2.27504E-014 23250 123750)" r="175"/>
+  <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" transform="matrix(2.27504E-014 0.859008 -0.859008 2.27504E-014 23250 125250)" r="175"/>
+  <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" transform="matrix(4.55009E-014 1.71802 -1.71802 4.55009E-014 23250 127500)" r="175"/>
+  <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" transform="matrix(4.55009E-014 1.71802 -1.71802 4.55009E-014 23250 129000)" r="175"/>
+  <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" transform="matrix(2.27504E-014 0.859008 -0.859008 2.27504E-014 23250 126750)" r="175"/>
+  <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" transform="matrix(2.27504E-014 0.859008 -0.859008 2.27504E-014 23250 128250)" r="175"/>
+  <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" transform="matrix(4.55009E-014 1.71802 -1.71802 4.55009E-014 23250 130500)" r="175"/>
+  <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" transform="matrix(2.27504E-014 0.859008 -0.859008 2.27504E-014 23250 129750)" r="175"/>
+  <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" transform="matrix(2.27504E-014 0.859008 -0.859008 2.27504E-014 23250 131250)" r="175"/>
+  <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" transform="matrix(4.55009E-014 1.71802 -1.71802 4.55009E-014 23250 141000)" r="175"/>
+  <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" transform="matrix(2.27504E-014 0.859008 -0.859008 2.27504E-014 23250 140250)" r="175"/>
+  <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" transform="matrix(4.55009E-014 1.71802 -1.71802 4.55009E-014 23250 142500)" r="175"/>
+  <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" transform="matrix(4.55009E-014 1.71802 -1.71802 4.55009E-014 23250 144000)" r="175"/>
+  <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" transform="matrix(2.27504E-014 0.859008 -0.859008 2.27504E-014 23250 141750)" r="175"/>
+  <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" transform="matrix(2.27504E-014 0.859008 -0.859008 2.27504E-014 23250 143250)" r="175"/>
+  <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" transform="matrix(4.55009E-014 1.71802 -1.71802 4.55009E-014 23250 145500)" r="175"/>
+  <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" transform="matrix(4.55009E-014 1.71802 -1.71802 4.55009E-014 23250 147000)" r="175"/>
+  <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" transform="matrix(2.27504E-014 0.859008 -0.859008 2.27504E-014 23250 144750)" r="175"/>
+  <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" transform="matrix(2.27504E-014 0.859008 -0.859008 2.27504E-014 23250 146250)" r="175"/>
+  <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" transform="matrix(2.27504E-014 0.859008 -0.859008 2.27504E-014 23250 147750)" r="175"/>
+  <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" transform="matrix(4.55009E-014 1.71802 -1.71802 4.55009E-014 23250 156000)" r="175"/>
+  <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" transform="matrix(2.27504E-014 0.859008 -0.859008 2.27504E-014 23250 155250)" r="175"/>
+  <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" transform="matrix(4.55009E-014 1.71802 -1.71802 4.55009E-014 23250 157500)" r="175"/>
+  <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" transform="matrix(4.55009E-014 1.71802 -1.71802 4.55009E-014 23250 159000)" r="175"/>
+  <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" transform="matrix(2.27504E-014 0.859008 -0.859008 2.27504E-014 23250 156750)" r="175"/>
+  <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" transform="matrix(2.27504E-014 0.859008 -0.859008 2.27504E-014 23250 158250)" r="175"/>
+  <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" transform="matrix(4.55009E-014 1.71802 -1.71802 4.55009E-014 66750 112500)" r="175"/>
+  <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" transform="matrix(4.55009E-014 1.71802 -1.71802 4.55009E-014 66750 114000)" r="175"/>
+  <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" transform="matrix(2.27504E-014 0.859008 -0.859008 2.27504E-014 66750 111750)" r="175"/>
+  <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" transform="matrix(2.27504E-014 0.859008 -0.859008 2.27504E-014 66750 113250)" r="175"/>
+  <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" transform="matrix(2.27504E-014 0.859008 -0.859008 2.27504E-014 66750 114750)" r="175"/>
+  <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" transform="matrix(4.55009E-014 1.71802 -1.71802 4.55009E-014 66750 123000)" r="175"/>
+  <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" transform="matrix(2.27504E-014 0.859008 -0.859008 2.27504E-014 66750 122250)" r="175"/>
+  <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" transform="matrix(4.55009E-014 1.71802 -1.71802 4.55009E-014 66750 124500)" r="175"/>
+  <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" transform="matrix(4.55009E-014 1.71802 -1.71802 4.55009E-014 66750 126000)" r="175"/>
+  <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" transform="matrix(2.27504E-014 0.859008 -0.859008 2.27504E-014 66750 123750)" r="175"/>
+  <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" transform="matrix(2.27504E-014 0.859008 -0.859008 2.27504E-014 66750 125250)" r="175"/>
+  <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" transform="matrix(4.55009E-014 1.71802 -1.71802 4.55009E-014 66750 127500)" r="175"/>
+  <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" transform="matrix(4.55009E-014 1.71802 -1.71802 4.55009E-014 66750 129000)" r="175"/>
+  <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" transform="matrix(2.27504E-014 0.859008 -0.859008 2.27504E-014 66750 126750)" r="175"/>
+  <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" transform="matrix(2.27504E-014 0.859008 -0.859008 2.27504E-014 66750 128250)" r="175"/>
+  <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" transform="matrix(4.55009E-014 1.71802 -1.71802 4.55009E-014 66750 130500)" r="175"/>
+  <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" transform="matrix(2.27504E-014 0.859008 -0.859008 2.27504E-014 66750 129750)" r="175"/>
+  <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" transform="matrix(2.27504E-014 0.859008 -0.859008 2.27504E-014 66750 131250)" r="175"/>
+  <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" transform="matrix(4.55009E-014 1.71802 -1.71802 4.55009E-014 66750 141000)" r="175"/>
+  <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" transform="matrix(2.27504E-014 0.859008 -0.859008 2.27504E-014 66750 140250)" r="175"/>
+  <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" transform="matrix(4.55009E-014 1.71802 -1.71802 4.55009E-014 66750 142500)" r="175"/>
+  <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" transform="matrix(4.55009E-014 1.71802 -1.71802 4.55009E-014 66750 144000)" r="175"/>
+  <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" transform="matrix(2.27504E-014 0.859008 -0.859008 2.27504E-014 66750 141750)" r="175"/>
+  <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" transform="matrix(2.27504E-014 0.859008 -0.859008 2.27504E-014 66750 143250)" r="175"/>
+  <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" transform="matrix(4.55009E-014 1.71802 -1.71802 4.55009E-014 66750 145500)" r="175"/>
+  <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" transform="matrix(4.55009E-014 1.71802 -1.71802 4.55009E-014 66750 147000)" r="175"/>
+  <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" transform="matrix(2.27504E-014 0.859008 -0.859008 2.27504E-014 66750 144750)" r="175"/>
+  <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" transform="matrix(2.27504E-014 0.859008 -0.859008 2.27504E-014 66750 146250)" r="175"/>
+  <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" transform="matrix(2.27504E-014 0.859008 -0.859008 2.27504E-014 66750 147750)" r="175"/>
+  <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" transform="matrix(4.55009E-014 1.71802 -1.71802 4.55009E-014 66750 156000)" r="175"/>
+  <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" transform="matrix(2.27504E-014 0.859008 -0.859008 2.27504E-014 66750 155250)" r="175"/>
+  <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" transform="matrix(4.55009E-014 1.71802 -1.71802 4.55009E-014 66750 157500)" r="175"/>
+  <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" transform="matrix(4.55009E-014 1.71802 -1.71802 4.55009E-014 66750 159000)" r="175"/>
+  <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" transform="matrix(2.27504E-014 0.859008 -0.859008 2.27504E-014 66750 156750)" r="175"/>
+  <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" transform="matrix(2.27504E-014 0.859008 -0.859008 2.27504E-014 66750 158250)" r="175"/>
+  <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" cx="24750" cy="159000" r="300"/>
+  <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" cx="26250" cy="159000" r="300"/>
+  <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" cx="24000" cy="159000" r="150"/>
+  <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" cx="25500" cy="159000" r="150"/>
+  <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" cx="27750" cy="159000" r="300"/>
+  <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" cx="29250" cy="159000" r="300"/>
+  <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" cx="27000" cy="159000" r="150"/>
+  <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" cx="28500" cy="159000" r="150"/>
+  <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" cx="30750" cy="159000" r="300"/>
+  <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" cx="32250" cy="159000" r="300"/>
+  <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" cx="30000" cy="159000" r="150"/>
+  <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" cx="31500" cy="159000" r="150"/>
+  <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" cx="33750" cy="159000" r="300"/>
+  <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" cx="35250" cy="159000" r="300"/>
+  <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" cx="33000" cy="159000" r="150"/>
+  <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" cx="34500" cy="159000" r="150"/>
+  <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" cx="36750" cy="159000" r="300"/>
+  <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" cx="38250" cy="159000" r="300"/>
+  <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" cx="36000" cy="159000" r="150"/>
+  <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" cx="37500" cy="159000" r="150"/>
+  <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" cx="39750" cy="159000" r="300"/>
+  <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" cx="41250" cy="159000" r="300"/>
+  <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" cx="39000" cy="159000" r="150"/>
+  <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" cx="40500" cy="159000" r="150"/>
+  <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" cx="42750" cy="159000" r="300"/>
+  <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" cx="44250" cy="159000" r="300"/>
+  <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" cx="42000" cy="159000" r="150"/>
+  <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" cx="43500" cy="159000" r="150"/>
+  <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" cx="45750" cy="159000" r="300"/>
+  <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" cx="47250" cy="159000" r="300"/>
+  <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" cx="45000" cy="159000" r="150"/>
+  <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" cx="46500" cy="159000" r="150"/>
+  <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" cx="48750" cy="159000" r="300"/>
+  <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" cx="50250" cy="159000" r="300"/>
+  <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" cx="48000" cy="159000" r="150"/>
+  <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" cx="49500" cy="159000" r="150"/>
+  <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" cx="51750" cy="159000" r="300"/>
+  <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" cx="53250" cy="159000" r="300"/>
+  <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" cx="51000" cy="159000" r="150"/>
+  <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" cx="52500" cy="159000" r="150"/>
+  <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" cx="54750" cy="159000" r="300"/>
+  <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" cx="56250" cy="159000" r="300"/>
+  <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" cx="54000" cy="159000" r="150"/>
+  <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" cx="55500" cy="159000" r="150"/>
+  <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" cx="57750" cy="159000" r="300"/>
+  <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" cx="59250" cy="159000" r="300"/>
+  <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" cx="57000" cy="159000" r="150"/>
+  <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" cx="58500" cy="159000" r="150"/>
+  <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" cx="60750" cy="159000" r="300"/>
+  <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" cx="62250" cy="159000" r="300"/>
+  <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" cx="60000" cy="159000" r="150"/>
+  <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" cx="61500" cy="159000" r="150"/>
+  <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" cx="63750" cy="159000" r="300"/>
+  <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" cx="65250" cy="159000" r="300"/>
+  <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" cx="63000" cy="159000" r="150"/>
+  <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" cx="64500" cy="159000" r="150"/>
+  <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" cx="66000" cy="159000" r="150"/>
+  <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" cx="30750" cy="150750" r="7250"/>
+  <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" cx="59250" cy="150750" r="7250"/>
+  <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" cx="45000" cy="142875" r="7250"/>
+  <text x="39905" y="154425"  fill="none" stroke="blue" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" font-weight="normal" font-size="564.44" font-family="Lucida Sans Unicode">oomlout_organizing_kitchen_storage</text>
+  <text x="40289" y="155293"  fill="none" stroke="blue" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" font-weight="normal" font-size="564.44" font-family="Lucida Sans Unicode">jar_clip_top_jar_kilner_cubby_hole</text>
+  <text x="38716" y="156160"  fill="none" stroke="blue" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" font-weight="normal" font-size="564.44" font-family="Lucida Sans Unicode">storage_jar_clip_top_kilner_3000_ml_capacity</text>
+  <text x="37692" y="157027"  fill="none" stroke="blue" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" font-weight="normal" font-size="564.44" font-family="Lucida Sans Unicode">140_mm_diameter_280_mm_depth_kilner_0025_494</text>
+  <text x="40870" y="157895"  fill="none" stroke="blue" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" font-weight="normal" font-size="564.44" font-family="Lucida Sans Unicode">oom.lt/wrap_genuine_emerge</text>
+  <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" transform="matrix(4.55009E-014 1.71802 -1.71802 4.55009E-014 54750 126000)" r="175"/>
+  <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" transform="matrix(4.55009E-014 1.71802 -1.71802 4.55009E-014 54750 127500)" r="175"/>
+  <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" transform="matrix(2.27504E-014 0.859008 -0.859008 2.27504E-014 54750 126750)" r="175"/>
+  <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" transform="matrix(4.55009E-014 1.71802 -1.71802 4.55009E-014 35250 126000)" r="175"/>
+  <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" transform="matrix(4.55009E-014 1.71802 -1.71802 4.55009E-014 35250 127500)" r="175"/>
+  <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" transform="matrix(2.27504E-014 0.859008 -0.859008 2.27504E-014 35250 126750)" r="175"/>
+  <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" transform="matrix(4.55009E-014 1.71802 -1.71802 4.55009E-014 54750 142500)" r="175"/>
+  <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" transform="matrix(4.55009E-014 1.71802 -1.71802 4.55009E-014 54750 144000)" r="175"/>
+  <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" transform="matrix(2.27504E-014 0.859008 -0.859008 2.27504E-014 54750 143250)" r="175"/>
+  <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" transform="matrix(4.55009E-014 1.71802 -1.71802 4.55009E-014 35250 142500)" r="175"/>
+  <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" transform="matrix(4.55009E-014 1.71802 -1.71802 4.55009E-014 35250 144000)" r="175"/>
+  <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" transform="matrix(2.27504E-014 0.859008 -0.859008 2.27504E-014 35250 143250)" r="175"/>
+  <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" transform="matrix(4.55009E-014 1.71802 -1.71802 4.55009E-014 39750 151500)" r="175"/>
+  <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" transform="matrix(4.55009E-014 1.71802 -1.71802 4.55009E-014 39750 153000)" r="175"/>
+  <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" transform="matrix(2.27504E-014 0.859008 -0.859008 2.27504E-014 39750 152250)" r="175"/>
+  <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" transform="matrix(4.55009E-014 1.71802 -1.71802 4.55009E-014 39750 150000)" r="175"/>
+  <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" transform="matrix(2.27504E-014 0.859008 -0.859008 2.27504E-014 39750 150750)" r="175"/>
+  <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" transform="matrix(4.55009E-014 1.71802 -1.71802 4.55009E-014 50250 151500)" r="175"/>
+  <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" transform="matrix(4.55009E-014 1.71802 -1.71802 4.55009E-014 50250 153000)" r="175"/>
+  <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" transform="matrix(2.27504E-014 0.859008 -0.859008 2.27504E-014 50250 152250)" r="175"/>
+  <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" transform="matrix(4.55009E-014 1.71802 -1.71802 4.55009E-014 50250 150000)" r="175"/>
+  <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" transform="matrix(2.27504E-014 0.859008 -0.859008 2.27504E-014 50250 150750)" r="175"/>
+  <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" transform="matrix(4.55009E-014 1.71802 -1.71802 4.55009E-014 39750 118500)" r="175"/>
+  <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" transform="matrix(4.55009E-014 1.71802 -1.71802 4.55009E-014 39750 120000)" r="175"/>
+  <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" transform="matrix(2.27504E-014 0.859008 -0.859008 2.27504E-014 39750 119250)" r="175"/>
+  <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" transform="matrix(4.55009E-014 1.71802 -1.71802 4.55009E-014 39750 117000)" r="175"/>
+  <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" transform="matrix(2.27504E-014 0.859008 -0.859008 2.27504E-014 39750 117750)" r="175"/>
+  <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" transform="matrix(4.55009E-014 1.71802 -1.71802 4.55009E-014 50250 118500)" r="175"/>
+  <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" transform="matrix(4.55009E-014 1.71802 -1.71802 4.55009E-014 50250 120000)" r="175"/>
+  <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" transform="matrix(2.27504E-014 0.859008 -0.859008 2.27504E-014 50250 119250)" r="175"/>
+  <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" transform="matrix(4.55009E-014 1.71802 -1.71802 4.55009E-014 50250 117000)" r="175"/>
+  <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" transform="matrix(2.27504E-014 0.859008 -0.859008 2.27504E-014 50250 117750)" r="175"/>
+  <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" cx="84750" cy="111000" r="300"/>
+  <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" cx="86250" cy="111000" r="300"/>
+  <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" cx="84000" cy="111000" r="150"/>
+  <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" cx="85500" cy="111000" r="150"/>
+  <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" cx="83250" cy="111000" r="300"/>
+  <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" cx="87750" cy="111000" r="300"/>
+  <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" cx="89250" cy="111000" r="300"/>
+  <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" cx="87000" cy="111000" r="150"/>
+  <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" cx="88500" cy="111000" r="150"/>
+  <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" cx="90750" cy="111000" r="300"/>
+  <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" cx="92250" cy="111000" r="300"/>
+  <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" cx="90000" cy="111000" r="150"/>
+  <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" cx="91500" cy="111000" r="150"/>
+  <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" cx="93750" cy="111000" r="300"/>
+  <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" cx="95250" cy="111000" r="300"/>
+  <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" cx="93000" cy="111000" r="150"/>
+  <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" cx="94500" cy="111000" r="150"/>
+  <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" cx="96000" cy="111000" r="150"/>
+  <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" cx="102750" cy="111000" r="300"/>
+  <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" cx="104250" cy="111000" r="300"/>
+  <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" cx="102000" cy="111000" r="150"/>
+  <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" cx="103500" cy="111000" r="150"/>
+  <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" cx="105750" cy="111000" r="300"/>
+  <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" cx="107250" cy="111000" r="300"/>
+  <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" cx="105000" cy="111000" r="150"/>
+  <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" cx="106500" cy="111000" r="150"/>
+  <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" cx="108750" cy="111000" r="300"/>
+  <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" cx="110250" cy="111000" r="300"/>
+  <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" cx="108000" cy="111000" r="150"/>
+  <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" cx="109500" cy="111000" r="150"/>
+  <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" cx="111750" cy="111000" r="300"/>
+  <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" cx="113250" cy="111000" r="300"/>
+  <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" cx="111000" cy="111000" r="150"/>
+  <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" cx="112500" cy="111000" r="150"/>
+  <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" cx="114750" cy="111000" r="300"/>
+  <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" cx="116250" cy="111000" r="300"/>
+  <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" cx="114000" cy="111000" r="150"/>
+  <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" cx="115500" cy="111000" r="150"/>
+  <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" cx="117750" cy="111000" r="300"/>
+  <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" cx="117000" cy="111000" r="150"/>
+  <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" cx="118500" cy="111000" r="150"/>
+  <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" cx="125250" cy="111000" r="300"/>
+  <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" cx="124500" cy="111000" r="150"/>
+  <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" cx="126750" cy="111000" r="300"/>
+  <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" cx="126000" cy="111000" r="150"/>
+  <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" transform="matrix(4.55009E-014 -1.71802 1.71802 4.55009E-014 83250 153000)" r="175"/>
+  <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" transform="matrix(4.55009E-014 -1.71802 1.71802 4.55009E-014 83250 151500)" r="175"/>
+  <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" transform="matrix(2.27504E-014 -0.859008 0.859008 2.27504E-014 83250 153750)" r="175"/>
+  <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" transform="matrix(2.27504E-014 -0.859008 0.859008 2.27504E-014 83250 152250)" r="175"/>
+  <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" transform="matrix(2.27504E-014 -0.859008 0.859008 2.27504E-014 83250 150750)" r="175"/>
+  <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" transform="matrix(4.55009E-014 -1.71802 1.71802 4.55009E-014 83250 141000)" r="175"/>
+  <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" transform="matrix(2.27504E-014 -0.859008 0.859008 2.27504E-014 83250 141750)" r="175"/>
+  <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" transform="matrix(2.27504E-014 -0.859008 0.859008 2.27504E-014 83250 140250)" r="175"/>
+  <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" transform="matrix(4.55009E-014 -1.71802 1.71802 4.55009E-014 83250 129000)" r="175"/>
+  <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" transform="matrix(2.27504E-014 -0.859008 0.859008 2.27504E-014 83250 129750)" r="175"/>
+  <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" transform="matrix(2.27504E-014 -0.859008 0.859008 2.27504E-014 83250 128250)" r="175"/>
+  <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" transform="matrix(4.55009E-014 -1.71802 1.71802 4.55009E-014 83250 117000)" r="175"/>
+  <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" transform="matrix(4.55009E-014 -1.71802 1.71802 4.55009E-014 83250 115500)" r="175"/>
+  <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" transform="matrix(2.27504E-014 -0.859008 0.859008 2.27504E-014 83250 117750)" r="175"/>
+  <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" transform="matrix(2.27504E-014 -0.859008 0.859008 2.27504E-014 83250 116250)" r="175"/>
+  <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" transform="matrix(4.55009E-014 -1.71802 1.71802 4.55009E-014 83250 114000)" r="175"/>
+  <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" transform="matrix(4.55009E-014 -1.71802 1.71802 4.55009E-014 83250 112500)" r="175"/>
+  <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" transform="matrix(2.27504E-014 -0.859008 0.859008 2.27504E-014 83250 114750)" r="175"/>
+  <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" transform="matrix(2.27504E-014 -0.859008 0.859008 2.27504E-014 83250 113250)" r="175"/>
+  <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" transform="matrix(2.27504E-014 -0.859008 0.859008 2.27504E-014 83250 111750)" r="175"/>
+  <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" transform="matrix(4.55009E-014 -1.71802 1.71802 4.55009E-014 83250 159000)" r="175"/>
+  <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" transform="matrix(4.55009E-014 -1.71802 1.71802 4.55009E-014 83250 157500)" r="175"/>
+  <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" transform="matrix(2.27504E-014 -0.859008 0.859008 2.27504E-014 83250 158250)" r="175"/>
+  <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" transform="matrix(4.55009E-014 -1.71802 1.71802 4.55009E-014 83250 156000)" r="175"/>
+  <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" transform="matrix(4.55009E-014 -1.71802 1.71802 4.55009E-014 83250 154500)" r="175"/>
+  <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" transform="matrix(2.27504E-014 -0.859008 0.859008 2.27504E-014 83250 156750)" r="175"/>
+  <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" transform="matrix(2.27504E-014 -0.859008 0.859008 2.27504E-014 83250 155250)" r="175"/>
+  <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" cx="84750" cy="159000" r="300"/>
+  <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" cx="86250" cy="159000" r="300"/>
+  <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" cx="84000" cy="159000" r="150"/>
+  <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" cx="85500" cy="159000" r="150"/>
+  <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" cx="87750" cy="159000" r="300"/>
+  <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" cx="89250" cy="159000" r="300"/>
+  <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" cx="87000" cy="159000" r="150"/>
+  <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" cx="88500" cy="159000" r="150"/>
+  <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" cx="90750" cy="159000" r="300"/>
+  <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" cx="92250" cy="159000" r="300"/>
+  <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" cx="90000" cy="159000" r="150"/>
+  <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" cx="91500" cy="159000" r="150"/>
+  <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" cx="93750" cy="159000" r="300"/>
+  <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" cx="95250" cy="159000" r="300"/>
+  <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" cx="93000" cy="159000" r="150"/>
+  <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" cx="94500" cy="159000" r="150"/>
+  <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" cx="96000" cy="159000" r="150"/>
+  <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" cx="102750" cy="159000" r="300"/>
+  <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" cx="104250" cy="159000" r="300"/>
+  <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" cx="102000" cy="159000" r="150"/>
+  <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" cx="103500" cy="159000" r="150"/>
+  <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" cx="105750" cy="159000" r="300"/>
+  <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" cx="107250" cy="159000" r="300"/>
+  <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" cx="105000" cy="159000" r="150"/>
+  <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" cx="106500" cy="159000" r="150"/>
+  <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" cx="108750" cy="159000" r="300"/>
+  <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" cx="110250" cy="159000" r="300"/>
+  <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" cx="108000" cy="159000" r="150"/>
+  <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" cx="109500" cy="159000" r="150"/>
+  <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" cx="111750" cy="159000" r="300"/>
+  <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" cx="113250" cy="159000" r="300"/>
+  <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" cx="111000" cy="159000" r="150"/>
+  <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" cx="112500" cy="159000" r="150"/>
+  <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" cx="114750" cy="159000" r="300"/>
+  <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" cx="116250" cy="159000" r="300"/>
+  <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" cx="114000" cy="159000" r="150"/>
+  <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" cx="115500" cy="159000" r="150"/>
+  <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" cx="117750" cy="159000" r="300"/>
+  <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" cx="117000" cy="159000" r="150"/>
+  <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" cx="118500" cy="159000" r="150"/>
+  <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" cx="125250" cy="159000" r="300"/>
+  <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" cx="124500" cy="159000" r="150"/>
+  <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" cx="126750" cy="159000" r="300"/>
+  <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" cx="126000" cy="159000" r="150"/>
+  <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" transform="matrix(4.55009E-014 -1.71802 1.71802 4.55009E-014 126750 147000)" r="175"/>
+  <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" transform="matrix(2.27504E-014 -0.859008 0.859008 2.27504E-014 126750 147750)" r="175"/>
+  <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" transform="matrix(2.27504E-014 -0.859008 0.859008 2.27504E-014 126750 146250)" r="175"/>
+  <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" transform="matrix(4.55009E-014 -1.71802 1.71802 4.55009E-014 126750 135000)" r="175"/>
+  <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" transform="matrix(2.27504E-014 -0.859008 0.859008 2.27504E-014 126750 135750)" r="175"/>
+  <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" transform="matrix(2.27504E-014 -0.859008 0.859008 2.27504E-014 126750 134250)" r="175"/>
+  <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" transform="matrix(4.55009E-014 -1.71802 1.71802 4.55009E-014 126750 123000)" r="175"/>
+  <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" transform="matrix(4.55009E-014 -1.71802 1.71802 4.55009E-014 126750 121500)" r="175"/>
+  <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" transform="matrix(2.27504E-014 -0.859008 0.859008 2.27504E-014 126750 123750)" r="175"/>
+  <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" transform="matrix(2.27504E-014 -0.859008 0.859008 2.27504E-014 126750 122250)" r="175"/>
+  <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" transform="matrix(4.55009E-014 -1.71802 1.71802 4.55009E-014 126750 112500)" r="175"/>
+  <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" transform="matrix(2.27504E-014 -0.859008 0.859008 2.27504E-014 126750 120750)" r="175"/>
+  <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" transform="matrix(2.27504E-014 -0.859008 0.859008 2.27504E-014 126750 113250)" r="175"/>
+  <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" transform="matrix(2.27504E-014 -0.859008 0.859008 2.27504E-014 126750 111750)" r="175"/>
+  <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" transform="matrix(4.55009E-014 -1.71802 1.71802 4.55009E-014 126750 157500)" r="175"/>
+  <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" transform="matrix(2.27504E-014 -0.859008 0.859008 2.27504E-014 126750 158250)" r="175"/>
+  <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" transform="matrix(2.27504E-014 -0.859008 0.859008 2.27504E-014 126750 156750)" r="175"/>
+  <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" transform="matrix(4.55009E-014 -1.71802 1.71802 4.55009E-014 117750 135000)" r="175"/>
+  <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" transform="matrix(2.27504E-014 -0.859008 0.859008 2.27504E-014 117750 135750)" r="175"/>
+  <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" transform="matrix(2.27504E-014 -0.859008 0.859008 2.27504E-014 117750 134250)" r="175"/>
+  <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" transform="matrix(4.55009E-014 -1.71802 1.71802 4.55009E-014 102750 135000)" r="175"/>
+  <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" transform="matrix(2.27504E-014 -0.859008 0.859008 2.27504E-014 102750 135750)" r="175"/>
+  <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" transform="matrix(2.27504E-014 -0.859008 0.859008 2.27504E-014 102750 134250)" r="175"/>
+  <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" transform="matrix(4.55009E-014 -1.71802 1.71802 4.55009E-014 117750 147000)" r="175"/>
+  <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" transform="matrix(2.27504E-014 -0.859008 0.859008 2.27504E-014 117750 147750)" r="175"/>
+  <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" transform="matrix(2.27504E-014 -0.859008 0.859008 2.27504E-014 117750 146250)" r="175"/>
+  <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" transform="matrix(4.55009E-014 -1.71802 1.71802 4.55009E-014 102750 147000)" r="175"/>
+  <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" transform="matrix(2.27504E-014 -0.859008 0.859008 2.27504E-014 102750 147750)" r="175"/>
+  <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" transform="matrix(2.27504E-014 -0.859008 0.859008 2.27504E-014 102750 146250)" r="175"/>
+  <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" transform="matrix(4.55009E-014 -1.71802 1.71802 4.55009E-014 117750 123000)" r="175"/>
+  <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" transform="matrix(2.27504E-014 -0.859008 0.859008 2.27504E-014 117750 123750)" r="175"/>
+  <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" transform="matrix(2.27504E-014 -0.859008 0.859008 2.27504E-014 117750 122250)" r="175"/>
+  <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" transform="matrix(4.55009E-014 -1.71802 1.71802 4.55009E-014 102750 123000)" r="175"/>
+  <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" transform="matrix(2.27504E-014 -0.859008 0.859008 2.27504E-014 102750 123750)" r="175"/>
+  <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" transform="matrix(2.27504E-014 -0.859008 0.859008 2.27504E-014 102750 122250)" r="175"/>
+  <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" transform="matrix(4.55009E-014 -1.71802 1.71802 4.55009E-014 114750 129000)" r="175"/>
+  <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" transform="matrix(2.27504E-014 -0.859008 0.859008 2.27504E-014 114750 129750)" r="175"/>
+  <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" transform="matrix(2.27504E-014 -0.859008 0.859008 2.27504E-014 114750 128250)" r="175"/>
+  <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" transform="matrix(4.55009E-014 -1.71802 1.71802 4.55009E-014 107250 129000)" r="175"/>
+  <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" transform="matrix(2.27504E-014 -0.859008 0.859008 2.27504E-014 107250 129750)" r="175"/>
+  <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" transform="matrix(2.27504E-014 -0.859008 0.859008 2.27504E-014 107250 128250)" r="175"/>
+  <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" transform="matrix(4.55009E-014 -1.71802 1.71802 4.55009E-014 92250 129000)" r="175"/>
+  <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" transform="matrix(2.27504E-014 -0.859008 0.859008 2.27504E-014 92250 129750)" r="175"/>
+  <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" transform="matrix(2.27504E-014 -0.859008 0.859008 2.27504E-014 92250 128250)" r="175"/>
+  <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" transform="matrix(4.55009E-014 -1.71802 1.71802 4.55009E-014 114750 117000)" r="175"/>
+  <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" transform="matrix(2.27504E-014 -0.859008 0.859008 2.27504E-014 114750 117750)" r="175"/>
+  <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" transform="matrix(2.27504E-014 -0.859008 0.859008 2.27504E-014 114750 116250)" r="175"/>
+  <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" transform="matrix(4.55009E-014 -1.71802 1.71802 4.55009E-014 107250 117000)" r="175"/>
+  <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" transform="matrix(2.27504E-014 -0.859008 0.859008 2.27504E-014 107250 117750)" r="175"/>
+  <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" transform="matrix(2.27504E-014 -0.859008 0.859008 2.27504E-014 107250 116250)" r="175"/>
+  <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" transform="matrix(4.55009E-014 -1.71802 1.71802 4.55009E-014 92250 117000)" r="175"/>
+  <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" transform="matrix(2.27504E-014 -0.859008 0.859008 2.27504E-014 92250 117750)" r="175"/>
+  <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" transform="matrix(2.27504E-014 -0.859008 0.859008 2.27504E-014 92250 116250)" r="175"/>
+  <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" transform="matrix(4.55009E-014 -1.71802 1.71802 4.55009E-014 114750 153000)" r="175"/>
+  <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" transform="matrix(2.27504E-014 -0.859008 0.859008 2.27504E-014 114750 153750)" r="175"/>
+  <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" transform="matrix(2.27504E-014 -0.859008 0.859008 2.27504E-014 114750 152250)" r="175"/>
+  <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" transform="matrix(4.55009E-014 -1.71802 1.71802 4.55009E-014 107250 153000)" r="175"/>
+  <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" transform="matrix(2.27504E-014 -0.859008 0.859008 2.27504E-014 107250 153750)" r="175"/>
+  <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" transform="matrix(2.27504E-014 -0.859008 0.859008 2.27504E-014 107250 152250)" r="175"/>
+  <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" transform="matrix(4.55009E-014 -1.71802 1.71802 4.55009E-014 92250 153000)" r="175"/>
+  <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" transform="matrix(2.27504E-014 -0.859008 0.859008 2.27504E-014 92250 153750)" r="175"/>
+  <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" transform="matrix(2.27504E-014 -0.859008 0.859008 2.27504E-014 92250 152250)" r="175"/>
+  <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" transform="matrix(4.55009E-014 -1.71802 1.71802 4.55009E-014 114750 154500)" r="175"/>
+  <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" transform="matrix(2.27504E-014 -0.859008 0.859008 2.27504E-014 114750 155250)" r="175"/>
+  <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" transform="matrix(4.55009E-014 -1.71802 1.71802 4.55009E-014 114750 156000)" r="175"/>
+  <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" transform="matrix(2.27504E-014 -0.859008 0.859008 2.27504E-014 114750 156750)" r="175"/>
+  <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" transform="matrix(4.55009E-014 -1.71802 1.71802 4.55009E-014 114750 157500)" r="175"/>
+  <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" transform="matrix(2.27504E-014 -0.859008 0.859008 2.27504E-014 114750 158250)" r="175"/>
+  <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" transform="matrix(4.55009E-014 -1.71802 1.71802 4.55009E-014 107250 154500)" r="175"/>
+  <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" transform="matrix(2.27504E-014 -0.859008 0.859008 2.27504E-014 107250 155250)" r="175"/>
+  <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" transform="matrix(4.55009E-014 -1.71802 1.71802 4.55009E-014 107250 156000)" r="175"/>
+  <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" transform="matrix(2.27504E-014 -0.859008 0.859008 2.27504E-014 107250 156750)" r="175"/>
+  <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" transform="matrix(4.55009E-014 -1.71802 1.71802 4.55009E-014 107250 157500)" r="175"/>
+  <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" transform="matrix(2.27504E-014 -0.859008 0.859008 2.27504E-014 107250 158250)" r="175"/>
+  <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" transform="matrix(4.55009E-014 -1.71802 1.71802 4.55009E-014 92250 154500)" r="175"/>
+  <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" transform="matrix(2.27504E-014 -0.859008 0.859008 2.27504E-014 92250 155250)" r="175"/>
+  <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" transform="matrix(4.55009E-014 -1.71802 1.71802 4.55009E-014 92250 156000)" r="175"/>
+  <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" transform="matrix(2.27504E-014 -0.859008 0.859008 2.27504E-014 92250 156750)" r="175"/>
+  <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" transform="matrix(4.55009E-014 -1.71802 1.71802 4.55009E-014 92250 157500)" r="175"/>
+  <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" transform="matrix(2.27504E-014 -0.859008 0.859008 2.27504E-014 92250 158250)" r="175"/>
+  <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" transform="matrix(2.27504E-014 -0.859008 0.859008 2.27504E-014 114750 111750)" r="175"/>
+  <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" transform="matrix(4.55009E-014 -1.71802 1.71802 4.55009E-014 114750 112500)" r="175"/>
+  <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" transform="matrix(2.27504E-014 -0.859008 0.859008 2.27504E-014 114750 113250)" r="175"/>
+  <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" transform="matrix(4.55009E-014 -1.71802 1.71802 4.55009E-014 114750 114000)" r="175"/>
+  <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" transform="matrix(2.27504E-014 -0.859008 0.859008 2.27504E-014 114750 114750)" r="175"/>
+  <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" transform="matrix(4.55009E-014 -1.71802 1.71802 4.55009E-014 114750 115500)" r="175"/>
+  <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" transform="matrix(2.27504E-014 -0.859008 0.859008 2.27504E-014 107250 111750)" r="175"/>
+  <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" transform="matrix(4.55009E-014 -1.71802 1.71802 4.55009E-014 107250 112500)" r="175"/>
+  <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" transform="matrix(2.27504E-014 -0.859008 0.859008 2.27504E-014 107250 113250)" r="175"/>
+  <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" transform="matrix(4.55009E-014 -1.71802 1.71802 4.55009E-014 107250 114000)" r="175"/>
+  <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" transform="matrix(2.27504E-014 -0.859008 0.859008 2.27504E-014 107250 114750)" r="175"/>
+  <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" transform="matrix(4.55009E-014 -1.71802 1.71802 4.55009E-014 107250 115500)" r="175"/>
+  <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" transform="matrix(2.27504E-014 -0.859008 0.859008 2.27504E-014 92250 111750)" r="175"/>
+  <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" transform="matrix(4.55009E-014 -1.71802 1.71802 4.55009E-014 92250 112500)" r="175"/>
+  <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" transform="matrix(2.27504E-014 -0.859008 0.859008 2.27504E-014 92250 113250)" r="175"/>
+  <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" transform="matrix(4.55009E-014 -1.71802 1.71802 4.55009E-014 92250 114000)" r="175"/>
+  <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" transform="matrix(2.27504E-014 -0.859008 0.859008 2.27504E-014 92250 114750)" r="175"/>
+  <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" transform="matrix(4.55009E-014 -1.71802 1.71802 4.55009E-014 92250 115500)" r="175"/>
+  <text x="85654" y="113133"  fill="none" stroke="blue" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" font-weight="normal" font-size="564.44" font-family="Lucida Sans Unicode">oomlout_organizing_</text>
+  <text x="85257" y="114000"  fill="none" stroke="blue" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" font-weight="normal" font-size="564.44" font-family="Lucida Sans Unicode">kitchen_storage_jar_clip</text>
+  <text x="84990" y="114867"  fill="none" stroke="blue" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" font-weight="normal" font-size="564.44" font-family="Lucida Sans Unicode">top_jar_kilner_cubby_hole</text>
+  <text x="85152" y="154859"  fill="none" stroke="blue" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" font-weight="normal" font-size="423.33" font-family="Lucida Sans Unicode">storage_jar_clip_top_kilner</text>
+  <text x="84036" y="155510"  fill="none" stroke="blue" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" font-weight="normal" font-size="423.33" font-family="Lucida Sans Unicode">1500_ml_capacity_110_mm_diameter</text>
+  <text x="84462" y="156160"  fill="none" stroke="blue" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" font-weight="normal" font-size="423.33" font-family="Lucida Sans Unicode">230_mm_depth_kilner_0025_492</text>
+  <text x="84821" y="156811"  fill="none" stroke="blue" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" font-weight="normal" font-size="423.33" font-family="Lucida Sans Unicode">oom.lt/wrap_genuine_emerge</text>
+ </g>
+</svg>
